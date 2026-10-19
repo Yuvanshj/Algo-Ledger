@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "2210",
+  "frontendId": "2089",
+  "title": "Find Target Indices After Sorting Array",
+  "slug": "find-target-indices-after-sorting-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.1 MB",
+  "submissionId": "2176560787",
+  "acceptedAt": "2026-10-19T19:49:40.660Z",
+  "updatedAt": "2026-10-19T19:49:41.554Z",
+  "url": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+  "version": 1
+}

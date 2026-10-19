@@ -1,5 +1,6 @@
 {
   "python3": [
-    "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
+    "leetcode/2913-subarrays-distinct-element-sum-of-squares-i",
+    "leetcode/2089-find-target-indices-after-sorting-array"
   ]
 }
