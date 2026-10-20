@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**2** problems solved — 2 Easy · 0 Medium · 0 Hard
+**3** problems solved — 2 Easy · 1 Medium · 0 Hard
 
 ## Contents
 
@@ -14,6 +14,7 @@
 
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
+| 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | Array, Backtracking |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
@@ -26,9 +27,11 @@
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
-### Medium (0)
+### Medium (1)
 
-_No problems solved yet._
+| # | Title | Topics |
+| --- | --- | --- |
+| 0039 | [Combination Sum](0039-combination-sum/README.md) | Array, Backtracking |
 
 ### Hard (0)
 
@@ -37,12 +40,22 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (2)</summary>
+<summary>Array (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Backtracking (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 
 </details>
 
@@ -94,10 +107,11 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (2)</summary>
+<summary>python3 (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 
@@ -107,5 +121,6 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-10-20 |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | 2026-10-19 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | 2026-10-19 |

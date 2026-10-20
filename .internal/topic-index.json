@@ -1,7 +1,8 @@
 {
   "Array": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i",
-    "leetcode/2089-find-target-indices-after-sorting-array"
+    "leetcode/2089-find-target-indices-after-sorting-array",
+    "leetcode/0039-combination-sum"
   ],
   "Hash Table": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
@@ -17,5 +18,8 @@
   ],
   "Sorting": [
     "leetcode/2089-find-target-indices-after-sorting-array"
+  ],
+  "Backtracking": [
+    "leetcode/0039-combination-sum"
   ]
 }
