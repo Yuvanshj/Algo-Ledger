@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "3950",
+  "frontendId": "3644",
+  "title": "Maximum K to Sort a Permutation",
+  "slug": "maximum-k-to-sort-a-permutation",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "35 ms",
+  "memory": "31.9 MB",
+  "submissionId": "2179577155",
+  "acceptedAt": "2026-10-23T10:40:56.282Z",
+  "updatedAt": "2026-10-23T10:40:57.263Z",
+  "url": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+  "version": 1
+}
