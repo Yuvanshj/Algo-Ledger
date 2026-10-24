@@ -66,5 +66,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-24T11:13:32.782Z"
+  },
+  {
+    "folderId": "leetcode/0509-fibonacci-number",
+    "frontendId": "509",
+    "title": "Fibonacci Number",
+    "slug": "fibonacci-number",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-24T11:30:27.355Z"
   }
 ]

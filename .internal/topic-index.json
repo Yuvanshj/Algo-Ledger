@@ -27,9 +27,19 @@
     "leetcode/3644-maximum-k-to-sort-a-permutation"
   ],
   "Math": [
-    "leetcode/2409-count-days-spent-together"
+    "leetcode/2409-count-days-spent-together",
+    "leetcode/0509-fibonacci-number"
   ],
   "String": [
     "leetcode/2409-count-days-spent-together"
+  ],
+  "Dynamic Programming": [
+    "leetcode/0509-fibonacci-number"
+  ],
+  "Recursion": [
+    "leetcode/0509-fibonacci-number"
+  ],
+  "Memoization": [
+    "leetcode/0509-fibonacci-number"
   ]
 }

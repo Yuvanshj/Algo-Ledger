@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**5** problems solved — 3 Easy · 2 Medium · 0 Hard
+**6** problems solved — 4 Easy · 2 Medium · 0 Hard
 
 ## Contents
 
@@ -15,6 +15,7 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | Array, Backtracking |
+| 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
@@ -22,10 +23,11 @@
 
 ## By Difficulty
 
-### Easy (3)
+### Easy (4)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Math, Dynamic Programming, Recursion, Memoization |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
@@ -92,6 +94,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Dynamic Programming (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Hash Table (1)</summary>
 
 | # | Title | Difficulty |
@@ -101,11 +112,30 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Math (1)</summary>
+<summary>Math (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Memoization (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Recursion (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 
 </details>
 
@@ -139,11 +169,12 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (5)</summary>
+<summary>python3 (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
+| 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
@@ -155,6 +186,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | 2026-10-24 |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | 2026-10-24 |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium | 2026-10-23 |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-10-20 |
