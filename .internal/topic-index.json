@@ -4,7 +4,8 @@
     "leetcode/2089-find-target-indices-after-sorting-array",
     "leetcode/0039-combination-sum",
     "leetcode/3644-maximum-k-to-sort-a-permutation",
-    "leetcode/0078-subsets"
+    "leetcode/0078-subsets",
+    "leetcode/0090-subsets-ii"
   ],
   "Hash Table": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
@@ -23,11 +24,13 @@
   ],
   "Backtracking": [
     "leetcode/0039-combination-sum",
-    "leetcode/0078-subsets"
+    "leetcode/0078-subsets",
+    "leetcode/0090-subsets-ii"
   ],
   "Bit Manipulation": [
     "leetcode/3644-maximum-k-to-sort-a-permutation",
-    "leetcode/0078-subsets"
+    "leetcode/0078-subsets",
+    "leetcode/0090-subsets-ii"
   ],
   "Math": [
     "leetcode/2409-count-days-spent-together",

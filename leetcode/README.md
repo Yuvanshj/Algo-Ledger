@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**7** problems solved — 4 Easy · 3 Medium · 0 Hard
+**8** problems solved — 4 Easy · 4 Medium · 0 Hard
 
 ## Contents
 
@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | Array, Backtracking |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
@@ -33,12 +34,13 @@
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
-### Medium (3)
+### Medium (4)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Array, Backtracking |
 | 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Array, Backtracking, Bit Manipulation |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Array, Bit Manipulation |
 
 ### Hard (0)
@@ -48,12 +50,13 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (5)</summary>
+<summary>Array (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium |
@@ -61,12 +64,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Backtracking (2)</summary>
+<summary>Backtracking (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 
 </details>
 
@@ -89,11 +93,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Bit Manipulation (2)</summary>
+<summary>Bit Manipulation (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium |
 
 </details>
@@ -174,12 +179,13 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (7)</summary>
+<summary>python3 (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
@@ -192,6 +198,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | 2026-10-24 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-10-24 |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | 2026-10-24 |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | 2026-10-24 |

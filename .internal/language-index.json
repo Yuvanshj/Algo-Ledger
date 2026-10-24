@@ -6,6 +6,7 @@
     "leetcode/3644-maximum-k-to-sort-a-permutation",
     "leetcode/2409-count-days-spent-together",
     "leetcode/0509-fibonacci-number",
-    "leetcode/0078-subsets"
+    "leetcode/0078-subsets",
+    "leetcode/0090-subsets-ii"
   ]
 }
