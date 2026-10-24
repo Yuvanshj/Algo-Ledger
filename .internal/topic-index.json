@@ -25,5 +25,11 @@
   ],
   "Bit Manipulation": [
     "leetcode/3644-maximum-k-to-sort-a-permutation"
+  ],
+  "Math": [
+    "leetcode/2409-count-days-spent-together"
+  ],
+  "String": [
+    "leetcode/2409-count-days-spent-together"
   ]
 }

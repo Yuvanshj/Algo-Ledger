@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**4** problems solved — 2 Easy · 2 Medium · 0 Hard
+**5** problems solved — 3 Easy · 2 Medium · 0 Hard
 
 ## Contents
 
@@ -16,16 +16,18 @@
 | --- | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | Array, Backtracking |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium | Array, Bit Manipulation |
 
 ## By Difficulty
 
-### Easy (2)
+### Easy (3)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
 ### Medium (2)
@@ -99,6 +101,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Math (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Segment Tree (1)</summary>
 
 | # | Title | Difficulty |
@@ -116,15 +127,25 @@ _No problems solved yet._
 
 </details>
 
+<details>
+<summary>String (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
+
+</details>
+
 ## By Language
 
 <details>
-<summary>python3 (4)</summary>
+<summary>python3 (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium |
 
@@ -134,6 +155,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | 2026-10-24 |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium | 2026-10-23 |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-10-20 |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | 2026-10-19 |

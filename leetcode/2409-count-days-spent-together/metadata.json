@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "2496",
+  "frontendId": "2409",
+  "title": "Count Days Spent Together",
+  "slug": "count-days-spent-together",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2180368235",
+  "acceptedAt": "2026-10-24T11:08:04.366Z",
+  "updatedAt": "2026-10-24T11:08:05.181Z",
+  "url": "https://leetcode.com/problems/count-days-spent-together/",
+  "version": 1
+}
