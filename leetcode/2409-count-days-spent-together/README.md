@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 0 ms |
-| Memory | 19.2 MB |
-| Submission Date | 2026-10-24T11:08:04.366Z |
+| Runtime | 1 ms |
+| Memory | 19.1 MB |
+| Submission Date | 2026-10-24T11:13:32.782Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -79,39 +79,27 @@ class Solution:
         bobLeaveMon = int(leaveBob[0:2])
         bobLeaveDay = int(leaveBob[3:5])
 
-
         aliceArrTotal = 0
         aliceLeaveTotal = 0
         bobArrTotal = 0
         bobLeaveTotal = 0
 
-        for i in range(aliceArrMon-1):
-            aliceArrTotal += arr[i]
-        
-        aliceArrTotal += aliceArrDay
+        def giveTotal(total, Day, Mon):
+            for i in range(Mon - 1):
+                total += arr[i]
 
-        for i in range(aliceLeaveMon-1):
-            aliceLeaveTotal += arr[i]
-        
-        aliceLeaveTotal += aliceLeaveDay
+            total += Day
+            return total
 
-        for i in range(bobArrMon-1):
-            bobArrTotal += arr[i]
-        
-        bobArrTotal += bobArrDay
+        aliceArrTotal = giveTotal(aliceArrTotal, aliceArrDay, aliceArrMon)
+        aliceLeaveTotal = giveTotal(aliceLeaveTotal, aliceLeaveDay, aliceLeaveMon)
+        bobArrTotal = giveTotal(bobArrTotal, bobArrDay, bobArrMon)
+        bobLeaveTotal = giveTotal(bobLeaveTotal, bobLeaveDay, bobLeaveMon)
 
-        for i in range(bobLeaveMon-1):
-            bobLeaveTotal += arr[i]
-        
-        bobLeaveTotal += bobLeaveDay
-
-        
-        # print(aliceArrTotal, aliceLeaveTotal, bobArrTotal, bobLeaveTotal)
         start = max(aliceArrTotal, bobArrTotal)
         end = min(aliceLeaveTotal, bobLeaveTotal)
 
         return max(0, end - start + 1)
-
 ```
 
 [View on LeetCode](https://leetcode.com/problems/count-days-spent-together/)

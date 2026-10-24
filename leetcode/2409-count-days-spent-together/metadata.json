@@ -11,11 +11,11 @@
   ],
   "companyTags": [],
   "language": "python3",
-  "runtime": "0 ms",
-  "memory": "19.2 MB",
-  "submissionId": "2180368235",
-  "acceptedAt": "2026-10-24T11:08:04.366Z",
-  "updatedAt": "2026-10-24T11:08:05.181Z",
+  "runtime": "1 ms",
+  "memory": "19.1 MB",
+  "submissionId": "2180371629",
+  "acceptedAt": "2026-10-24T11:13:32.782Z",
+  "updatedAt": "2026-10-24T11:13:33.303Z",
   "url": "https://leetcode.com/problems/count-days-spent-together/",
-  "version": 1
+  "version": 2
 }

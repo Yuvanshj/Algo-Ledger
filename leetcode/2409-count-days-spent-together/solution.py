@@ -1,5 +1,5 @@
-# Runtime: 0 ms
-# Memory: 19.2 MB
+# Runtime: 1 ms
+# Memory: 19.1 MB
 
 class Solution:
     def countDaysTogether(self, arriveAlice: str, leaveAlice: str, arriveBob: str, leaveBob: str) -> int:
@@ -17,34 +17,23 @@ class Solution:
         bobLeaveMon = int(leaveBob[0:2])
         bobLeaveDay = int(leaveBob[3:5])
 
-
         aliceArrTotal = 0
         aliceLeaveTotal = 0
         bobArrTotal = 0
         bobLeaveTotal = 0
 
-        for i in range(aliceArrMon-1):
-            aliceArrTotal += arr[i]
-        
-        aliceArrTotal += aliceArrDay
+        def giveTotal(total, Day, Mon):
+            for i in range(Mon - 1):
+                total += arr[i]
 
-        for i in range(aliceLeaveMon-1):
-            aliceLeaveTotal += arr[i]
-        
-        aliceLeaveTotal += aliceLeaveDay
+            total += Day
+            return total
 
-        for i in range(bobArrMon-1):
-            bobArrTotal += arr[i]
-        
-        bobArrTotal += bobArrDay
+        aliceArrTotal = giveTotal(aliceArrTotal, aliceArrDay, aliceArrMon)
+        aliceLeaveTotal = giveTotal(aliceLeaveTotal, aliceLeaveDay, aliceLeaveMon)
+        bobArrTotal = giveTotal(bobArrTotal, bobArrDay, bobArrMon)
+        bobLeaveTotal = giveTotal(bobLeaveTotal, bobLeaveDay, bobLeaveMon)
 
-        for i in range(bobLeaveMon-1):
-            bobLeaveTotal += arr[i]
-        
-        bobLeaveTotal += bobLeaveDay
-
-        
-        # print(aliceArrTotal, aliceLeaveTotal, bobArrTotal, bobLeaveTotal)
         start = max(aliceArrTotal, bobArrTotal)
         end = min(aliceLeaveTotal, bobLeaveTotal)
 
