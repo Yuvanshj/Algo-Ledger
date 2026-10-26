@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**8** problems solved — 4 Easy · 4 Medium · 0 Hard
+**9** problems solved — 4 Easy · 5 Medium · 0 Hard
 
 ## Contents
 
@@ -15,6 +15,7 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | Array, Backtracking |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium | Array, Backtracking |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
@@ -34,11 +35,12 @@
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
-### Medium (4)
+### Medium (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Array, Backtracking |
+| 0046 | [Permutations](0046-permutations/README.md) | Array, Backtracking |
 | 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Array, Backtracking, Bit Manipulation |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Array, Bit Manipulation |
@@ -50,11 +52,12 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (6)</summary>
+<summary>Array (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
@@ -64,11 +67,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Backtracking (3)</summary>
+<summary>Backtracking (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 
@@ -179,11 +183,12 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (8)</summary>
+<summary>python3 (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
@@ -198,6 +203,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0046 | [Permutations](0046-permutations/README.md) | Medium | 2026-10-26 |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | 2026-10-24 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-10-24 |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | 2026-10-24 |

@@ -7,6 +7,7 @@
     "leetcode/2409-count-days-spent-together",
     "leetcode/0509-fibonacci-number",
     "leetcode/0078-subsets",
-    "leetcode/0090-subsets-ii"
+    "leetcode/0090-subsets-ii",
+    "leetcode/0046-permutations"
   ]
 }
