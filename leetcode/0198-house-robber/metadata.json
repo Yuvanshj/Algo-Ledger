@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "198",
+  "frontendId": "198",
+  "title": "House Robber",
+  "slug": "house-robber",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.4 MB",
+  "submissionId": "2183296837",
+  "acceptedAt": "2026-10-27T17:16:26.361Z",
+  "updatedAt": "2026-10-27T17:16:32.276Z",
+  "url": "https://leetcode.com/problems/house-robber/",
+  "version": 1
+}

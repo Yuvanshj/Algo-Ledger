@@ -136,5 +136,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-27T13:44:09.337Z"
+  },
+  {
+    "folderId": "leetcode/0198-house-robber",
+    "frontendId": "198",
+    "title": "House Robber",
+    "slug": "house-robber",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-27T17:16:26.361Z"
   }
 ]

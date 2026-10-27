@@ -6,7 +6,8 @@
     "leetcode/3644-maximum-k-to-sort-a-permutation",
     "leetcode/0078-subsets",
     "leetcode/0090-subsets-ii",
-    "leetcode/0046-permutations"
+    "leetcode/0046-permutations",
+    "leetcode/0198-house-robber"
   ],
   "Hash Table": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
@@ -44,7 +45,8 @@
   ],
   "Dynamic Programming": [
     "leetcode/0509-fibonacci-number",
-    "leetcode/0070-climbing-stairs"
+    "leetcode/0070-climbing-stairs",
+    "leetcode/0198-house-robber"
   ],
   "Recursion": [
     "leetcode/0509-fibonacci-number"
