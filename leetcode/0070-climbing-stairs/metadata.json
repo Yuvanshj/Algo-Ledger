@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "70",
+  "frontendId": "70",
+  "title": "Climbing Stairs",
+  "slug": "climbing-stairs",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2183114784",
+  "acceptedAt": "2026-10-27T13:44:09.337Z",
+  "updatedAt": "2026-10-27T13:44:10.329Z",
+  "url": "https://leetcode.com/problems/climbing-stairs/",
+  "version": 1
+}

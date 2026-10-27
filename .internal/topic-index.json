@@ -36,18 +36,21 @@
   ],
   "Math": [
     "leetcode/2409-count-days-spent-together",
-    "leetcode/0509-fibonacci-number"
+    "leetcode/0509-fibonacci-number",
+    "leetcode/0070-climbing-stairs"
   ],
   "String": [
     "leetcode/2409-count-days-spent-together"
   ],
   "Dynamic Programming": [
-    "leetcode/0509-fibonacci-number"
+    "leetcode/0509-fibonacci-number",
+    "leetcode/0070-climbing-stairs"
   ],
   "Recursion": [
     "leetcode/0509-fibonacci-number"
   ],
   "Memoization": [
-    "leetcode/0509-fibonacci-number"
+    "leetcode/0509-fibonacci-number",
+    "leetcode/0070-climbing-stairs"
   ]
 }

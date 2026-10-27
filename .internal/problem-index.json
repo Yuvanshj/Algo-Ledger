@@ -122,5 +122,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-26T13:58:05.626Z"
+  },
+  {
+    "folderId": "leetcode/0070-climbing-stairs",
+    "frontendId": "70",
+    "title": "Climbing Stairs",
+    "slug": "climbing-stairs",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-27T13:44:09.337Z"
   }
 ]

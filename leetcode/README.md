@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**9** problems solved — 4 Easy · 5 Medium · 0 Hard
+**10** problems solved — 5 Easy · 5 Medium · 0 Hard
 
 ## Contents
 
@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | Array, Backtracking |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium | Array, Backtracking |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
@@ -26,10 +27,11 @@
 
 ## By Difficulty
 
-### Easy (4)
+### Easy (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Math, Dynamic Programming, Memoization |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Math, Dynamic Programming, Recursion, Memoization |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
@@ -108,10 +110,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (1)</summary>
+<summary>Dynamic Programming (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 
 </details>
@@ -126,20 +129,22 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Math (2)</summary>
+<summary>Math (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 
 </details>
 
 <details>
-<summary>Memoization (1)</summary>
+<summary>Memoization (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 
 </details>
@@ -183,12 +188,13 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (9)</summary>
+<summary>python3 (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
@@ -203,6 +209,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | 2026-10-27 |
 | 0046 | [Permutations](0046-permutations/README.md) | Medium | 2026-10-26 |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | 2026-10-24 |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | 2026-10-24 |
