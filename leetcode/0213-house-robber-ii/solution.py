@@ -1,5 +1,5 @@
-# Runtime: 1 ms
-# Memory: 19.3 MB
+# Runtime: 0 ms
+# Memory: 19.1 MB
 
 class Solution:
     def rob(self, nums: list[int]) -> int:
