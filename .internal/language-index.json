@@ -10,6 +10,7 @@
     "leetcode/0090-subsets-ii",
     "leetcode/0046-permutations",
     "leetcode/0070-climbing-stairs",
-    "leetcode/0198-house-robber"
+    "leetcode/0198-house-robber",
+    "leetcode/0213-house-robber-ii"
   ]
 }

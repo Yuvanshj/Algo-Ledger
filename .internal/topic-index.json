@@ -7,7 +7,8 @@
     "leetcode/0078-subsets",
     "leetcode/0090-subsets-ii",
     "leetcode/0046-permutations",
-    "leetcode/0198-house-robber"
+    "leetcode/0198-house-robber",
+    "leetcode/0213-house-robber-ii"
   ],
   "Hash Table": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
@@ -46,7 +47,8 @@
   "Dynamic Programming": [
     "leetcode/0509-fibonacci-number",
     "leetcode/0070-climbing-stairs",
-    "leetcode/0198-house-robber"
+    "leetcode/0198-house-robber",
+    "leetcode/0213-house-robber-ii"
   ],
   "Recursion": [
     "leetcode/0509-fibonacci-number"
