@@ -44,7 +44,8 @@
   ],
   "String": [
     "leetcode/2409-count-days-spent-together",
-    "leetcode/0647-palindromic-substrings"
+    "leetcode/0647-palindromic-substrings",
+    "leetcode/0091-decode-ways"
   ],
   "Dynamic Programming": [
     "leetcode/0509-fibonacci-number",
@@ -52,7 +53,8 @@
     "leetcode/0198-house-robber",
     "leetcode/0213-house-robber-ii",
     "leetcode/0746-min-cost-climbing-stairs",
-    "leetcode/0647-palindromic-substrings"
+    "leetcode/0647-palindromic-substrings",
+    "leetcode/0091-decode-ways"
   ],
   "Recursion": [
     "leetcode/0509-fibonacci-number"

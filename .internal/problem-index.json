@@ -189,5 +189,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-29T14:55:40.162Z"
+  },
+  {
+    "folderId": "leetcode/0091-decode-ways",
+    "frontendId": "91",
+    "title": "Decode Ways",
+    "slug": "decode-ways",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-29T18:39:11.974Z"
   }
 ]

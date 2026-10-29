@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**14** problems solved — 6 Easy · 8 Medium · 0 Hard
+**15** problems solved — 6 Easy · 9 Medium · 0 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium | Array, Backtracking, Bit Manipulation |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium | Array, Backtracking, Bit Manipulation |
+| 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium | Array, Dynamic Programming |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium | Array, Dynamic Programming |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
@@ -42,7 +43,7 @@
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
-### Medium (8)
+### Medium (9)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -50,6 +51,7 @@
 | 0046 | [Permutations](0046-permutations/README.md) | Array, Backtracking |
 | 0078 | [Subsets](0078-subsets/README.md) | Array, Backtracking, Bit Manipulation |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Array, Backtracking, Bit Manipulation |
+| 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0198 | [House Robber](0198-house-robber/README.md) | Array, Dynamic Programming |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Array, Dynamic Programming |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Two Pointers, String, Dynamic Programming |
@@ -121,11 +123,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (6)</summary>
+<summary>Dynamic Programming (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
+| 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
@@ -192,10 +195,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (2)</summary>
+<summary>String (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 
@@ -213,7 +217,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (14)</summary>
+<summary>python3 (15)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -222,6 +226,7 @@ _No problems solved yet._
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0078 | [Subsets](0078-subsets/README.md) | Medium |
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
+| 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
@@ -238,6 +243,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | 2026-10-29 |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium | 2026-10-29 |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-10-29 |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium | 2026-10-28 |
