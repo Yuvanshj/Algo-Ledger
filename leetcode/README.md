@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**12** problems solved — 5 Easy · 7 Medium · 0 Hard
+**13** problems solved — 6 Easy · 7 Medium · 0 Hard
 
 ## Contents
 
@@ -22,6 +22,7 @@
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium | Array, Dynamic Programming |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium | Array, Dynamic Programming |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
+| 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | Array, Dynamic Programming |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
@@ -29,12 +30,13 @@
 
 ## By Difficulty
 
-### Easy (5)
+### Easy (6)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Math, Dynamic Programming, Memoization |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Math, Dynamic Programming, Recursion, Memoization |
+| 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Array, Dynamic Programming |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
@@ -58,7 +60,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (9)</summary>
+<summary>Array (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -68,6 +70,7 @@ _No problems solved yet._
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium |
+| 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium |
@@ -116,7 +119,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (4)</summary>
+<summary>Dynamic Programming (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -124,6 +127,7 @@ _No problems solved yet._
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
+| 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 
 </details>
 
@@ -196,7 +200,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (12)</summary>
+<summary>python3 (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -208,6 +212,7 @@ _No problems solved yet._
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
+| 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
@@ -219,6 +224,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-10-29 |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium | 2026-10-28 |
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium | 2026-10-27 |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | 2026-10-27 |
