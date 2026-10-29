@@ -1,42 +1,31 @@
-# Runtime: 465 ms
-# Memory: 19.5 MB
+# Runtime: 1374 ms
+# Memory: 133.6 MB
 
 class Solution:
     def coinChange(self, coins: list[int], amount: int) -> int:
         n = len(coins)
-        # dp = [-1] * (n+1)
+        dp = [[-1] * (amount + 1) for _ in range(n)]
 
-        # def f(i, amount):
-        #     if(amount == 0):
-        #         return 0
-            
-        #     if(i < 0):
-        #         return float('inf')
+        def f(i, amount):
+            if amount == 0:
+                return 0
 
-        #     if(dp[i] != -1):
-        #         return dp[i]
-            
-        #     not_take = f(i-1, amount)
+            if i < 0:
+                return float('inf')
 
-        #     take = float('inf')
+            if dp[i][amount] != -1:
+                return dp[i][amount]
 
-        #     if(coins[i] <= amount):
-        #         take = 1 + f(i, amount - coins[i])
+            not_take = f(i - 1, amount)
 
-        #     dp[i] = min(take, not_take)
-        #     return dp[i]
-        
-        # ans = f(n-1, amount)
+            take = float('inf')
 
-        # return -1 if ans == float('inf') else ans
+            if coins[i] <= amount:
+                take = 1 + f(i, amount - coins[i])
 
-        dp = [float('inf')] * (amount + 1)
+            dp[i][amount] = min(take, not_take)
+            return dp[i][amount]
 
-        dp[0] = 0
+        ans = f(n - 1, amount)
 
-        for i in range(1, amount+1):
-            for coin in coins:
-                if(coin <= i):
-                    dp[i] = min(dp[i], 1+dp[i-coin])
-        
-        return dp[amount] if dp[amount] != float('inf') else -1
+        return -1 if ans == float('inf') else ans

@@ -14,11 +14,11 @@
   ],
   "companyTags": [],
   "language": "python3",
-  "runtime": "465 ms",
-  "memory": "19.5 MB",
-  "submissionId": "2185018893",
-  "acceptedAt": "2026-10-29T19:08:49.388Z",
-  "updatedAt": "2026-10-29T19:08:50.233Z",
+  "runtime": "1374 ms",
+  "memory": "133.6 MB",
+  "submissionId": "2185025269",
+  "acceptedAt": "2026-10-29T19:20:14.521Z",
+  "updatedAt": "2026-10-29T19:20:15.334Z",
   "url": "https://leetcode.com/problems/coin-change/",
-  "version": 1
+  "version": 2
 }
