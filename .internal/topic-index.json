@@ -9,7 +9,8 @@
     "leetcode/0046-permutations",
     "leetcode/0198-house-robber",
     "leetcode/0213-house-robber-ii",
-    "leetcode/0746-min-cost-climbing-stairs"
+    "leetcode/0746-min-cost-climbing-stairs",
+    "leetcode/0322-coin-change"
   ],
   "Hash Table": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
@@ -54,7 +55,8 @@
     "leetcode/0213-house-robber-ii",
     "leetcode/0746-min-cost-climbing-stairs",
     "leetcode/0647-palindromic-substrings",
-    "leetcode/0091-decode-ways"
+    "leetcode/0091-decode-ways",
+    "leetcode/0322-coin-change"
   ],
   "Recursion": [
     "leetcode/0509-fibonacci-number"
@@ -65,5 +67,14 @@
   ],
   "Two Pointers": [
     "leetcode/0647-palindromic-substrings"
+  ],
+  "Breadth-First Search": [
+    "leetcode/0322-coin-change"
+  ],
+  "Knapsack Problem": [
+    "leetcode/0322-coin-change"
+  ],
+  "Complete Knapsack": [
+    "leetcode/0322-coin-change"
   ]
 }

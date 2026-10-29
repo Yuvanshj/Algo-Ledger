@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**15** problems solved — 6 Easy · 9 Medium · 0 Hard
+**16** problems solved — 6 Easy · 10 Medium · 0 Hard
 
 ## Contents
 
@@ -22,6 +22,7 @@
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium | Array, Dynamic Programming |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium | Array, Dynamic Programming |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium | Two Pointers, String, Dynamic Programming |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | Array, Dynamic Programming |
@@ -43,7 +44,7 @@
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
-### Medium (9)
+### Medium (10)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -54,6 +55,7 @@
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0198 | [House Robber](0198-house-robber/README.md) | Array, Dynamic Programming |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Array, Dynamic Programming |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Two Pointers, String, Dynamic Programming |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Array, Bit Manipulation |
 
@@ -64,7 +66,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (10)</summary>
+<summary>Array (11)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -74,6 +76,7 @@ _No problems solved yet._
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Medium |
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
@@ -123,7 +126,25 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (7)</summary>
+<summary>Breadth-First Search (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Complete Knapsack (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Dynamic Programming (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -131,6 +152,7 @@ _No problems solved yet._
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
@@ -143,6 +165,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Knapsack Problem (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 
 </details>
 
@@ -217,7 +248,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (15)</summary>
+<summary>python3 (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -229,6 +260,7 @@ _No problems solved yet._
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
@@ -243,6 +275,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-29 |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | 2026-10-29 |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium | 2026-10-29 |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-10-29 |
@@ -257,4 +290,3 @@ _No problems solved yet._
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium | 2026-10-23 |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-10-20 |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | 2026-10-19 |
-| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | 2026-10-19 |
