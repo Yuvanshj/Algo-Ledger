@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**13** problems solved — 6 Easy · 7 Medium · 0 Hard
+**14** problems solved — 6 Easy · 8 Medium · 0 Hard
 
 ## Contents
 
@@ -22,6 +22,7 @@
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium | Array, Dynamic Programming |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium | Array, Dynamic Programming |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium | Two Pointers, String, Dynamic Programming |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | Array, Dynamic Programming |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
@@ -41,7 +42,7 @@
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
 
-### Medium (7)
+### Medium (8)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -51,6 +52,7 @@
 | 0090 | [Subsets II](0090-subsets-ii/README.md) | Array, Backtracking, Bit Manipulation |
 | 0198 | [House Robber](0198-house-robber/README.md) | Array, Dynamic Programming |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Array, Dynamic Programming |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Two Pointers, String, Dynamic Programming |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Array, Bit Manipulation |
 
 ### Hard (0)
@@ -119,7 +121,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (5)</summary>
+<summary>Dynamic Programming (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -127,6 +129,7 @@ _No problems solved yet._
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 
 </details>
@@ -189,18 +192,28 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (1)</summary>
+<summary>String (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Two Pointers (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium |
 
 </details>
 
 ## By Language
 
 <details>
-<summary>python3 (13)</summary>
+<summary>python3 (14)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -212,6 +225,7 @@ _No problems solved yet._
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
@@ -224,6 +238,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium | 2026-10-29 |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | 2026-10-29 |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium | 2026-10-28 |
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium | 2026-10-27 |

@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "647",
+  "frontendId": "647",
+  "title": "Palindromic Substrings",
+  "slug": "palindromic-substrings",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "782 ms",
+  "memory": "19.3 MB",
+  "submissionId": "2184802221",
+  "acceptedAt": "2026-10-29T14:55:40.162Z",
+  "updatedAt": "2026-10-29T14:55:41.805Z",
+  "url": "https://leetcode.com/problems/palindromic-substrings/",
+  "version": 1
+}

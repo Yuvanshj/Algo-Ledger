@@ -175,5 +175,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-29T14:29:19.089Z"
+  },
+  {
+    "folderId": "leetcode/0647-palindromic-substrings",
+    "frontendId": "647",
+    "title": "Palindromic Substrings",
+    "slug": "palindromic-substrings",
+    "difficulty": "Medium",
+    "topics": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-29T14:55:40.162Z"
   }
 ]
