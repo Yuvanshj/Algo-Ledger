@@ -10,7 +10,8 @@
     "leetcode/0198-house-robber",
     "leetcode/0213-house-robber-ii",
     "leetcode/0746-min-cost-climbing-stairs",
-    "leetcode/0322-coin-change"
+    "leetcode/0322-coin-change",
+    "leetcode/2022-convert-1d-array-into-2d-array"
   ],
   "Hash Table": [
     "leetcode/2913-subarrays-distinct-element-sum-of-squares-i"
@@ -76,5 +77,11 @@
   ],
   "Complete Knapsack": [
     "leetcode/0322-coin-change"
+  ],
+  "Matrix": [
+    "leetcode/2022-convert-1d-array-into-2d-array"
+  ],
+  "Simulation": [
+    "leetcode/2022-convert-1d-array-into-2d-array"
   ]
 }

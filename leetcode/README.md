@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**16** problems solved — 6 Easy · 10 Medium · 0 Hard
+**17** problems solved — 7 Easy · 10 Medium · 0 Hard
 
 ## Contents
 
@@ -26,6 +26,7 @@
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium | Two Pointers, String, Dynamic Programming |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy | Array, Dynamic Programming |
+| 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Easy | Array, Matrix, Simulation |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
@@ -33,13 +34,14 @@
 
 ## By Difficulty
 
-### Easy (6)
+### Easy (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Math, Dynamic Programming, Memoization |
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Math, Dynamic Programming, Recursion, Memoization |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Array, Dynamic Programming |
+| 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Array, Matrix, Simulation |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
@@ -66,7 +68,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (11)</summary>
+<summary>Array (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -78,6 +80,7 @@ _No problems solved yet._
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
+| 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium |
@@ -189,6 +192,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Matrix (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>Memoization (2)</summary>
 
 | # | Title | Difficulty |
@@ -213,6 +225,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Simulation (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Easy |
 
 </details>
 
@@ -248,7 +269,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (16)</summary>
+<summary>python3 (17)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -264,6 +285,7 @@ _No problems solved yet._
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium |
 | 0746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/README.md) | Easy |
+| 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
@@ -275,6 +297,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Easy | 2026-11-09 |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-29 |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | 2026-10-29 |
 | 0647 | [Palindromic Substrings](0647-palindromic-substrings/README.md) | Medium | 2026-10-29 |
@@ -289,4 +312,3 @@ _No problems solved yet._
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | 2026-10-24 |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium | 2026-10-23 |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-10-20 |
-| 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | 2026-10-19 |

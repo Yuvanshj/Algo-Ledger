@@ -15,6 +15,7 @@
     "leetcode/0746-min-cost-climbing-stairs",
     "leetcode/0647-palindromic-substrings",
     "leetcode/0091-decode-ways",
-    "leetcode/0322-coin-change"
+    "leetcode/0322-coin-change",
+    "leetcode/2022-convert-1d-array-into-2d-array"
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "2132",
+  "frontendId": "2022",
+  "title": "Convert 1D Array Into 2D Array",
+  "slug": "convert-1d-array-into-2d-array",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "31 ms",
+  "memory": "25.7 MB",
+  "submissionId": "2192696733",
+  "acceptedAt": "2026-11-09T18:27:13.572Z",
+  "updatedAt": "2026-11-09T18:27:15.100Z",
+  "url": "https://leetcode.com/problems/convert-1d-array-into-2d-array/",
+  "version": 1
+}
