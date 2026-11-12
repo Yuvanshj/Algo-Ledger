@@ -16,6 +16,7 @@
     "leetcode/0647-palindromic-substrings",
     "leetcode/0091-decode-ways",
     "leetcode/0322-coin-change",
-    "leetcode/2022-convert-1d-array-into-2d-array"
+    "leetcode/2022-convert-1d-array-into-2d-array",
+    "leetcode/3105-longest-strictly-increasing-or-strictly-decreasing-subarray"
   ]
 }

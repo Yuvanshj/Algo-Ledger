@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**17** problems solved — 7 Easy · 10 Medium · 0 Hard
+**18** problems solved — 8 Easy · 10 Medium · 0 Hard
 
 ## Contents
 
@@ -30,11 +30,12 @@
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | Array |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium | Array, Bit Manipulation |
 
 ## By Difficulty
 
-### Easy (7)
+### Easy (8)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -45,6 +46,7 @@
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Array, Binary Search, Sorting |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Math, String |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Array, Hash Table, Binary Indexed Tree, Segment Tree |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Array |
 
 ### Medium (10)
 
@@ -68,7 +70,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (12)</summary>
+<summary>Array (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -83,6 +85,7 @@ _No problems solved yet._
 | 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium |
 
 </details>
@@ -269,7 +272,7 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (17)</summary>
+<summary>python3 (18)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -289,6 +292,7 @@ _No problems solved yet._
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | Easy |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium |
 
 </details>
@@ -297,6 +301,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | 2026-11-12 |
 | 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Easy | 2026-11-09 |
 | 0322 | [Coin Change](0322-coin-change/README.md) | Medium | 2026-10-29 |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | 2026-10-29 |
@@ -311,4 +316,3 @@ _No problems solved yet._
 | 0509 | [Fibonacci Number](0509-fibonacci-number/README.md) | Easy | 2026-10-24 |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/README.md) | Easy | 2026-10-24 |
 | 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/README.md) | Medium | 2026-10-23 |
-| 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-10-20 |
